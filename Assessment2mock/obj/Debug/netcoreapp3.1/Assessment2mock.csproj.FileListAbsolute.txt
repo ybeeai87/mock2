@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\bin\Debug\netcoreapp3.1\Assessment2mock.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\bin\Debug\netcoreapp3.1\Assessment2mock.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\bin\Debug\netcoreapp3.1\Assessment2mock.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\bin\Debug\netcoreapp3.1\Assessment2mock.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\bin\Debug\netcoreapp3.1\Assessment2mock.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\bin\Debug\netcoreapp3.1\Assessment2mock.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 2\Assessment2\Assessment2mock\Assessment2mock\obj\Debug\netcoreapp3.1\Assessment2mock.genruntimeconfig.cache
